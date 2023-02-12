@@ -1,0 +1,6 @@
+vless://50360872-9038-452f-823f-d68519895a2b@cf.sudoer.net:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-01
+vless://50360872-9038-452f-823f-d68519895a2b@isegaro.ddns.net:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-02
+vless://50360872-9038-452f-823f-d68519895a2b@v2ray.online:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-03
+vless://50360872-9038-452f-823f-d68519895a2b@cf.sudoer.net:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-04
+vless://50360872-9038-452f-823f-d68519895a2b@ip.isegaro.click:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-05
+vless://50360872-9038-452f-823f-d68519895a2b@68112069.nip.io:443?encryption=none&security=tls&sni=50360872.vgod.eu.org&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=www.vgod.eu.org&path=%2Fsurvival-ws%3Fed%3D2048#VGOD-06
